@@ -70,7 +70,7 @@ if (galleryItems.length > 0) {
 		new Swiper(item, {
 			slidesPerView: 1, 
 			autoplay: {
-				delay: 5000,
+				delay: 4000,
 			},
 			effect: 'fade',
 		})
